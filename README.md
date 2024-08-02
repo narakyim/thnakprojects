@@ -1,2 +1,2 @@
 # thnakprojects
-website for rachel-pi
+offline server website for rachel-pi
